@@ -24,7 +24,7 @@ While quite challenging to use or ambiguous for beginners, senior developers who
 
 [4. Materialize](https://materializecss.com/)  
 
-[5. Bulma](https://bulma.io/)  <- Personal recommendation for beginners  
+[5. Bulma](https://bulma.io/)  <- Personal recommendation for beginners
 + [Bulma documentation](https://bulma.io/documentation/)    
 + [Bulma expo](https://bulma.io/expo/)  
 + [Bulma templates](https://bulmatemplates.github.io/bulma-templates/)  
