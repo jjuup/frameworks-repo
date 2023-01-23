@@ -20,7 +20,7 @@ While quite challenging to use or ambiguous for beginners, senior developers who
 [2. Bootstrap](https://getbootstrap.com/)  
 [3. Material UI](https://mui.com/)  
 [4. Materialize](https://materializecss.com/)  
-[5. Bulma](https://bulma.io/)  <- Personal recommendation for beginners
+[5. Bulma](https://bulma.io/)  <- Personal recommendation for beginners  
 [6. Foundation](https://get.foundation/)  
 [7. Skeleton](http://getskeleton.com/)  
 [8. Semantic UI](https://semantic-ui.com/)  
